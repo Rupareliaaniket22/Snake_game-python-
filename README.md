@@ -13,7 +13,7 @@ The project contains these modules:
 snake.py - Contains the Snake 🐍 class which handles moving the snake segments and changing direction based on user input.
 food.py - Contains the Food 🥕 class which randomly generates food particles for the snake 🐍 to eat.
 scoreboard.py - Contains the Scoreboard 📊 class which tracks current and high scores, and displays them on screen.
-main.py - Runs the main game loop, instantiating the objects and handling the game state.
+snake_game.py - Runs the main game loop, instantiating the objects and handling the game state.
 This separation of concerns through object-oriented principles keeps the code clean and modular.
 Requirements
 To run this Python snake game, you will need:
